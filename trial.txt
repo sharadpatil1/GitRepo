@@ -7,3 +7,6 @@ Third Line
 br2 first commit
 
 br1 commit
+
+br1 commit 2
+
